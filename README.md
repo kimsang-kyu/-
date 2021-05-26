@@ -1,2 +1,2 @@
-# open_api_load
-공공데이터포털 open_api load code 
+# 대전시 빅데이터 공모전 
+open api load 및 전처리 코드 모음
